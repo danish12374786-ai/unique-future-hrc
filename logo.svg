@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+<defs><linearGradient id="g1" x1="0" x2="1"><stop stop-color="#0a2c50"/><stop offset="1" stop-color="#1b6897"/></linearGradient><linearGradient id="g2" x1="0" x2="1"><stop stop-color="#e2ad28"/><stop offset="1" stop-color="#f4d36b"/></linearGradient></defs>
+<circle cx="120" cy="120" r="103" fill="#fff"/>
+<path d="M40 145C22 91 57 42 110 31c43-9 87 9 105 46-28-20-63-25-94-12-39 16-63 47-81 80z" fill="url(#g1)"/>
+<path d="M200 95c18 54-17 103-70 114-43 9-87-9-105-46 28 20 63 25 94 12 39-16 63-47 81-80z" fill="url(#g2)"/>
+<circle cx="120" cy="120" r="48" fill="#fff" stroke="#e0ae2c" stroke-width="7"/>
+<path d="M101 82h38v15h-25v13h22v14h-22v35h-13z" fill="#0a2c50"/>
+<text x="120" y="207" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#0a2c50">UF</text>
+</svg>
